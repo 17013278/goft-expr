@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f62dd0f-e127-47f5-ab1a-6c68384c1297" name="Default Changelist" comment="" />
+    <list default="true" id="9f62dd0f-e127-47f5-ab1a-6c68384c1297" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="D:\software\Go\go1.16" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -16,6 +22,7 @@
     </option>
   </component>
   <component name="ProjectId" id="290QDIaICzOUVHRgACarmYCtlnq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
@@ -30,6 +38,11 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\goft" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -60,6 +73,14 @@
     <proxy>https://goproxy.cn</proxy>
   </component>
   <component name="WindowStateProjectService">
+    <state x="679" y="143" key="#Notifications" timestamp="1652248057211">
+      <screen x="0" y="0" width="1792" height="1080" />
+    </state>
+    <state x="679" y="143" key="#Notifications/0.0.1792.1080@0.0.1792.1080" timestamp="1652248057211" />
+    <state x="345" y="11" key="DiffContextDialog" timestamp="1652248028349">
+      <screen x="0" y="0" width="1792" height="1080" />
+    </state>
+    <state x="345" y="11" key="DiffContextDialog/0.0.1792.1080@0.0.1792.1080" timestamp="1652248028349" />
     <state x="1000" y="215" key="FileChooserDialogImpl" timestamp="1652247416015">
       <screen x="0" y="0" width="1792" height="1080" />
     </state>
@@ -68,5 +89,9 @@
       <screen x="0" y="0" width="1792" height="1080" />
     </state>
     <state x="721" y="103" key="SettingsEditor/0.0.1792.1080@0.0.1792.1080" timestamp="1652247427212" />
+    <state x="812" y="194" key="Vcs.Push.Dialog.v2" timestamp="1652248048274">
+      <screen x="0" y="0" width="1792" height="1080" />
+    </state>
+    <state x="812" y="194" key="Vcs.Push.Dialog.v2/0.0.1792.1080@0.0.1792.1080" timestamp="1652248048274" />
   </component>
 </project>
